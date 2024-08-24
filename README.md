@@ -1,3 +1,5 @@
+### Note: Details to project are contained in the jupyter notebook bears the project code ("Predicting energy efficiency/consumption in buildings, using multi-output models").
+
 ## Project brief
 
 In a building, thermal energy involves two measures of cooling load (CL), and heating load (HL) and these measures are regulated by heating, ventilation, and air conditioning (HVAC) system. The HVAC system is designed to compute the HL and CL of the space and thereby, provide a desirable indoor air condition. 
