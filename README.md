@@ -1,4 +1,4 @@
-### Note: A comprehensive breakdown of the project is contained in the jupyter notebook bears the project code ("Predicting energy efficiency/consumption in buildings, using multi-output models").
+### Note: A comprehensive breakdown of the project is contained in "Predicting_energy_efficiency_in_buildings" paper; the jupyter notebook bears the project code.
 
 ## Project brief
 
