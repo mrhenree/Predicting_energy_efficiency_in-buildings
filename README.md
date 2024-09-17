@@ -1,4 +1,4 @@
-### Note: A comprehensive breakdown of the project is contained in "Predicting_energy_efficiency_in_buildings" paper; the jupyter notebook bears the project code.
+### Note: A comprehensive breakdown of the project is contained in the "Predicting_energy_efficiency_in_buildings" paper; the jupyter notebook bears the project code.
 
 ## Project brief
 
